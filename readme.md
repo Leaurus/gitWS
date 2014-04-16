@@ -1,3 +1,3 @@
-workshop de git
+#workshop de git
 
-descricao do projcto
+descricao do projecto
