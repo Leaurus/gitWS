@@ -1,6 +1,7 @@
 #workshop de git
 
-#descricao do projecto
+#Pequena descricao do projecto.
+#This is going to  be hardcore.
 
 Yolo
 
